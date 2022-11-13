@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "pignosemodel",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This mod aims to help new BTA modders.",
+  "name": "Pig Nose Model",
+  "description": "Backported 3D pig nose model from modern versions.",
   "authors": [
-    "Turnip Labs"
+    "pkstDev"
   ],
   "contact": {
     "homepage": "",
